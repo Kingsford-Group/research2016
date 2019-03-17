@@ -1,0 +1,64 @@
+clearly highlighted the main points and primary impact of the paper 
+
+    Excellent   Good   Fair    Poor
+
+the problem(s) the paper aims to solve was(were) clearly communicated
+
+    Excellent   Good   Fair    Poor
+
+the main results of the paper were clearly communicated
+
+    Excellent   Good   Fair    Poor
+
+the presentation motivated the audience's interest in the paper (even if the
+"interest" should be limited to why the paper has problems)
+
+    Excellent   Good   Fair    Poor
+
+the time spent on each topic was proportional to the importance conveyed
+
+    Excellent   Good   Fair    Poor
+
+demonstrated an understanding of the technical approach and results
+
+    Excellent   Good   Fair    Poor
+
+finished on time and used the presentation time effectively
+
+    Excellent   Good   Fair    Poor
+
+the organization of the presentation matched the material well, 
+clearly communicating the "story" of the paper.
+
+    Excellent   Good   Fair    Poor	
+
+slides are clear, with appropriate use of pictures and text
+
+    Excellent   Good   Fair    Poor
+ 
+slides made effective use of color, whitespace, alignment, contrast
+
+    Excellent   Good   Fair    Poor
+
+slides contained appropriate visualizations that convey the important ideas
+
+    Excellent   Good   Fair    Poor
+
+what the speaker said complemented slides and was well prepared and fluid
+
+    Excellent   Good   Fair    Poor
+
+complex results / data / graphs / tables where give enough time for the
+audience to understand
+
+    Excellent   Good   Fair    Poor
+
+synthesized the ideas in the paper in an understandable, clear, and
+comprehensive way (did more than just report what is in the paper, but drew
+some connections between various ideas in the paper and in the field)
+
+    Excellent   Good   Fair    Poor
+
+overall, the presentation created knowledge in the audience and saved them time
+
+    Excellent   Good   Fair    Poor
